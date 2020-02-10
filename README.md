@@ -1,2 +1,2 @@
-// Yarn Start
-New tab image loader and resizer in React.
+// Yarn Start 
+## New tab image loader and resizer in React.
